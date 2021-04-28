@@ -4,7 +4,7 @@
 
 #### 💻 Web Developer 🐾 Cat father
 
-- 👋 Hi, I’m @devmarvic
+- 🤖 Hi, I’m @devmarvic
 - 👀 I’m interested in Javascript, HTML5 and CSS3
 - 🌱 I’m currently learning React
 - 📫 How to reach me hello@devmarvic.com
