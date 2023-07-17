@@ -1,4 +1,4 @@
-### Hi [devMARVIC][website] here!
+### Hi [devmarvic][website] here!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devmarvic?color=%231da1f2&label=devmarvic&logo=twitter&style=for-the-badge)](https://twitter.com/devmarvic)
 
